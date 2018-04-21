@@ -31,17 +31,20 @@
                 <TextView
                     android:id="@+id/lblCedula"
                     android:layout_width="match_parent"
-                    android:layout_height="33dp" />
+                    android:layout_height="33dp"
+                    android:textSize="18sp" />
 
                 <TextView
                     android:id="@+id/lblNombre"
                     android:layout_width="match_parent"
-                    android:layout_height="33dp" />
+                    android:layout_height="33dp"
+                    android:textSize="18sp" />
 
                 <TextView
                     android:id="@+id/lblApellido"
                     android:layout_width="match_parent"
-                    android:layout_height="33dp" />
+                    android:layout_height="33dp"
+                    android:textSize="18sp" />
             </LinearLayout>
 
         </LinearLayout>
